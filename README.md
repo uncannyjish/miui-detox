@@ -10,4 +10,5 @@ Note: This zip only works on fresh MIUI installations. Wipe/Format Data is recom
 Instructions:
 
 Recovery ROM - Flash the zip with the ROM zip.
+
 Fastboot ROM - Flash before completing initial setup.
